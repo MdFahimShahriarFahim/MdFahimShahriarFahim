@@ -1,12 +1,14 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)](https://mdfahimshahriarfahim.github.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://mdfahimshahriarfahim.github.io)
 <h1 align="center">Hi 👋, I'm Fahim Shahriar</h1>
 <h3 align="center">A passionate Software Engineer and Student from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfahimshahriarfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mdfahimshahriarfahim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfahimshahriarfahim" alt="mdfahimshahriarfahim" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fahim0690" target="blank"><img src="https://img.shields.io/twitter/follow/fahim0690?logo=twitter&style=for-the-badge" alt="fahim0690" /></a> </p>
+
+- 🔭 I’m currently working on **API Testing**
 
 - 🌱 I’m currently learning **Automation**
 
@@ -15,6 +17,8 @@
 - 💬 Ask me about **Python, Django, HTML, Bootstrap, Testing**
 
 - 📫 How to reach me **fahimshahriar179@gmail.com**
+
+- ⚡ Fun fact **I am a Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
